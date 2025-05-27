@@ -19,7 +19,7 @@ const Footer = () => {
         </Link>
         <p className="text-sm">
           Made with love © {new Date().getFullYear()}{" "}
-          <Link href="pradipta.dev" target="_blank">
+          <Link href="https://pradipta.dev" target="_blank">
             elvxk
           </Link>
         </p>
